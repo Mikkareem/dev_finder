@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://irsath:irsath@cluster0-3jvfi.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "secretjsonwebsecret"
+  "mongoURI": "",
+  "jwtSecret": "secret"
 }
